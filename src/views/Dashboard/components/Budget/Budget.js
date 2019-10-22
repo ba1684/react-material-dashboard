@@ -84,7 +84,7 @@ const Budget = props => {
             className={classes.caption}
             variant="caption"
           >
-            Since last month test
+            Since last month
           </Typography>
         </div>
       </CardContent>
